@@ -4,7 +4,7 @@
 
 - Location: Gomel, Belarus
 - Email: rnsleprss@proton.me
-- Github: github.com/rnsleprss
+- Github: [link](https://github.com/rnsleprss)
 
 ## Introduction
 
@@ -36,4 +36,4 @@ Freelance work - [atms.by](https://atms.by)
 
 ## English
 
-B1 Level
+B1
